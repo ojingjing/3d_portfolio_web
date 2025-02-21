@@ -37,13 +37,13 @@ React만 사용해오다가 Next.js를 배우고 싶어 유튜브 강의를 참�
 
 ## <a name="tech-stack">⚙️ 기술 스택</a>
 
-- React.js
-- Three.js
-- React Three Fiber
-- React Three Drei
-- Email JS
-- Vite
-- Tailwind CSS
+- <code>React.js</code>
+- <code>Three.js</code> : WebGL을 활용한 3D 그래픽 라이브러리
+- <code>React Three Fiber</code> : React에서 Three.js를 쉽게 사용할 수 있도록 도와주는 라이브러리 
+- <code>React Three Drei</code> : 유틸리티 모음 라이브러리 (카메라컨트롤, 조명, 3D테스트 등)
+- <code>Email JS</code> : 서버 없이 클라이언트에서 직접 이메일을 보낼 수 있도록 도와주는 서비스 
+- <code>Vite</code> : 빠르고 가벼운 프론트엔드 빌드 도구 (핫리로드)
+- <code>Tailwind CSS</code> : 유틸리티 기반 CSS프레임 워크 클래스 조합해서 커스터 마이징
 
 ## <a name="image">🤸 이미지</a>
 
