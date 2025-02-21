@@ -24,11 +24,10 @@
 1. 🤖 [프로젝트 소개](#introduction)
 2. ⚙️ [기술스택](#tech-stack)
 3. 🤸 [이미지](#image)
-4. 🔋 [기능](#features)
+4. 🔋  [기능](#features)
 5. 🚀 [기대효과](#more)
 6. 🔗 [느낀점](#links)
 
-<br/>
 ## <a name="introduction">프로젝트 소개</a>
 
 React만 사용해오다가 Next.js를 배우고 싶어 유튜브 강의를 참고하며 포트폴리오 웹사이트를 제작했습니다. 
