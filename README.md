@@ -6,7 +6,13 @@
       <img src="https://github.com/user-attachments/assets/9d3fcd19-70cc-429b-8ead-8399ec60d1ab" alt="Project Banner" width=700 >
     </a>
   <br />
-
+<div>
+  <text>
+    작업기간 :  2024.12 - 2024.12 (2주) <br/>
+    작업참여 : 개인프로젝트
+  </text>
+</div>
+<br/>
   <div>
     <img src="https://img.shields.io/badge/-React_JS-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="react.js" />
     <img src="https://img.shields.io/badge/-Three_JS-black?style=for-the-badge&logoColor=white&logo=threedotjs&color=000000" alt="three.js" />
